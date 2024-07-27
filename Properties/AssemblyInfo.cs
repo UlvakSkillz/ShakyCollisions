@@ -4,8 +4,13 @@ using System.Runtime.InteropServices;
 using MelonLoader;
 using ShakyCollisions;
 
-[assembly: MelonInfo(typeof(main), "Shaky Collisions", "1.0.0", "UlvakSkillz")]
+[assembly: MelonInfo(typeof(main), "Shaky Collisions", "2.0.1", "UlvakSkillz")]
 [assembly: MelonGame("Buckethead Entertainment", "RUMBLE")]
+[assembly: MelonColor(255, 195, 0, 255)]
+[assembly: MelonAuthorColor(255, 195, 0, 255)]
+[assembly: VerifyLoaderVersion(0, 6, 2, true)]
+
+
 [assembly: AssemblyTitle("ShakyCollisions")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]

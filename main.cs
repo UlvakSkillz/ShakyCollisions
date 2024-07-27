@@ -1,5 +1,5 @@
 ﻿using MelonLoader;
-using RUMBLE.MoveSystem;
+using Il2CppRUMBLE.MoveSystem;
 using UnityEngine;
 
 namespace ShakyCollisions
@@ -16,7 +16,7 @@ namespace ShakyCollisions
             {
                 try
                 {
-                    combatManager = GameObject.Find("Game Instance/Other/CombatManager").GetComponent<CombatManager>();
+                    combatManager = CombatManager.instance;
                     combatManager.structureImpactShakeStrength *= 5;
                     sceneChanged = false;
                 }
