@@ -100,10 +100,8 @@ C:\Users\austi\source\repos\ShakyCollisions\ShakyCollisions\bin\Debug\UnityEngin
 C:\Users\austi\source\repos\ShakyCollisions\ShakyCollisions\bin\Debug\Unity.Burst.dll
 C:\Users\austi\source\repos\ShakyCollisions\ShakyCollisions\bin\Debug\MelonLoader.pdb
 C:\Users\austi\source\repos\ShakyCollisions\ShakyCollisions\bin\Debug\Unity.Profiling.Core.dll
-C:\Users\austi\source\repos\ShakyCollisions\ShakyCollisions\bin\Debug\Il2CppPhotonVoice.PUN.dll
 C:\Users\austi\source\repos\ShakyCollisions\ShakyCollisions\bin\Debug\Iced.dll
-C:\Users\austi\source\repos\ShakyCollisions\ShakyCollisions\bin\Debug\Unity.XR.CompositionLayers.dll
-C:\Users\austi\source\repos\ShakyCollisions\ShakyCollisions\bin\Debug\UnityEngine.VideoModule.dll
 C:\Users\austi\source\repos\ShakyCollisions\ShakyCollisions\bin\Debug\Il2CppLIV.LCKCore.dll
-C:\Users\austi\source\repos\ShakyCollisions\ShakyCollisions\bin\Debug\Unity.XR.CoreUtils.dll
 C:\Users\austi\source\repos\ShakyCollisions\ShakyCollisions\bin\Debug\Il2CppLIV.LCKCore.ThirdParty.MessagePack.dll
+C:\Users\austi\source\repos\ShakyCollisions\ShakyCollisions\bin\Debug\ModUI.dll
+C:\Users\austi\source\repos\ShakyCollisions\ShakyCollisions\bin\Debug\Il2CppSystem.Numerics.dll
