@@ -105,3 +105,5 @@ C:\Users\austi\source\repos\ShakyCollisions\ShakyCollisions\bin\Debug\Il2CppLIV.
 C:\Users\austi\source\repos\ShakyCollisions\ShakyCollisions\bin\Debug\Il2CppLIV.LCKCore.ThirdParty.MessagePack.dll
 C:\Users\austi\source\repos\ShakyCollisions\ShakyCollisions\bin\Debug\ModUI.dll
 C:\Users\austi\source\repos\ShakyCollisions\ShakyCollisions\bin\Debug\Il2CppSystem.Numerics.dll
+C:\Users\austi\source\repos\ShakyCollisions\ShakyCollisions\bin\Debug\UIFramework.dll
+C:\Users\austi\source\repos\ShakyCollisions\ShakyCollisions\bin\Debug\UIFramework.xml

@@ -32,6 +32,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="main.cs" />
+    <Compile Include="Preferences.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -51,6 +52,9 @@
     </Reference>
     <Reference Include="ModUI">
       <HintPath>F:\SteamLibrary\steamapps\common\RUMBLE\Mods\ModUI.dll</HintPath>
+    </Reference>
+    <Reference Include="UIFramework">
+      <HintPath>F:\SteamLibrary\steamapps\common\RUMBLE\Mods\UIFramework.dll</HintPath>
     </Reference>
     <Reference Include="UnhollowerBaseLib, Version=0.4.18.0, Culture=neutral, PublicKeyToken=null" />
     <Reference Include="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
